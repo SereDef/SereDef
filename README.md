@@ -6,4 +6,4 @@ Hi, there 👋
 
 ✨ Check out my website ✨
 
-[![alt text]([https://github.com/SereDef/SereDef/image.jpg](https://github.com/SereDef/SereDef/blob/main/Website_screenshot.png)https://github.com/SereDef/SereDef/blob/main/Website_screenshot.png?raw=true)](https://seredef.github.io/)
+[<img src="Website_screenshot.png">](https://seredef.github.io/)
